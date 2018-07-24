@@ -1,4 +1,4 @@
-//confirm an string
+//confirm a string
 function confirmEnding(str, char) {
   if (str[str.length - 1] === char) {
     return true;
